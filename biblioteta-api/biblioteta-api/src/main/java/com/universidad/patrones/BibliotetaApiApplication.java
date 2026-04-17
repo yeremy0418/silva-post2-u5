@@ -1,4 +1,4 @@
-package com.universidad.patrones.biblioteta_api;
+package com.universidad.patrones;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
